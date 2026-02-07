@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "インソムニア",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T09:09:04.499476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インソムニア",
+      "artist": "Cellar Darling",
+      "has_synced": true,
+      "path": "select/01_インソムニア_Cellar_Darling.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インソムニア・マーメイド",
+      "artist": "富田美憂",
+      "has_synced": false,
+      "path": "select/02_インソムニア・マーメイド_富田美憂.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インソムニア",
+      "artist": "After the Rain",
+      "has_synced": true,
+      "path": "select/03_インソムニア_After_the_Rain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インソムニア",
+      "artist": "nano.RIPE",
+      "has_synced": false,
+      "path": "select/04_インソムニア_nano.RIPE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インソムニア",
+      "artist": "sleepy.ab",
+      "has_synced": false,
+      "path": "select/05_インソムニア_sleepy.ab.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インソムニア",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_インソムニア_酔シグレ.txt"
+    }
+  ]
+}
